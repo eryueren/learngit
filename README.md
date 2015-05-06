@@ -1,0 +1,2 @@
+# learngit
+John  learn  git.
